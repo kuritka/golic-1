@@ -23,7 +23,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/AbsaOSS/golic/utils/log"
+	"github.com/kuritka/golic-1/utils/log"
 
 	"github.com/spf13/cobra"
 )

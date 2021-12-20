@@ -27,7 +27,7 @@ import (
 
 	"gopkg.in/yaml.v3"
 
-	"github.com/AbsaOSS/golic/utils/log"
+	"github.com/kuritka/golic-1/utils/log"
 
 	"github.com/denormal/go-gitignore"
 	"github.com/enescakir/emoji"

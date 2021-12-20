@@ -21,7 +21,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/AbsaOSS/golic/impl/update"
+	"github.com/kuritka/golic-1/impl/update"
 
 	"github.com/enescakir/emoji"
 	"github.com/logrusorgru/aurora"
