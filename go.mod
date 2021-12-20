@@ -1,4 +1,4 @@
-module kuritka/golic-1
+module github.com/kuritka/golic-1
 
 go 1.16
 
