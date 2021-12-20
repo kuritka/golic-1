@@ -1,4 +1,4 @@
-module github.com/AbsaOSS/golic
+module kuritka/golic-1
 
 go 1.16
 
